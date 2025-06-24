@@ -7,7 +7,7 @@ It showcases my skills, projects, and contact details — built with a clean and
 
 ## 🌐 Live Website
 
-🔗 [View Portfolio Live](https://lakshaysingh.github.io/portfolio/)
+🔗 [View Portfolio Live](https://lakshay-arch.github.io/portfolio/)
 
 ---
 
