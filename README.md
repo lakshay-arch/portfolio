@@ -13,7 +13,7 @@ It showcases my skills, projects, and contact details — built with a clean and
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](assets/portfolio-screenshot-home.png)
+![Portfolio Screenshot](portfolio-screenshot-home.PNG)
 
 ---
 
