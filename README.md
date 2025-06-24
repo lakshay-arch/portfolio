@@ -11,11 +11,6 @@ It showcases my skills, projects, and contact details — built with a clean and
 
 ---
 
-## 🖼️ Preview
-
-![Portfolio Screenshot](portfolio-screenshot-home.PNG)
-
----
 
 ## 🚀 Features
 
